@@ -71,6 +71,7 @@ Read the mod's source and access details before installing. Validation checks th
 - [cc-pokedex](https://github.com/deonmenezes/claude-mods-pokedex) - Wild creatures appear above the prompt based on where your prompt leads.
 - [nibbl](https://github.com/nuromirzak/nibbl) - A pixel pet above the prompt that drops a bug when a tool fails and eats it when a test, lint or build passes; syncs event types and times to its own server.
 - [time](https://github.com/diegorv/claude-functions-hook/tree/main/plugins/time) - The time you sent each message, drawn above it.
+- [combo-meter](https://github.com/SARTHAK2511/claude-combo) - A fighting-game combo counter above the prompt: every clean tool call is a hit and every error breaks the chain, with D to SSS ranks, special moves like a red-to-green test, a pixel-art counter, toasts, chiptune effects on macOS and an all-time record, making no network calls.
 - [boss-fight](https://github.com/OneWave-AI/claude-code-mods/tree/main/boss-fight) - Failing tests spawn a pixel boss with one HP per failure, and each run that fixes tests lands a hit.
 - [intermission](https://github.com/jarrodwatts/intermission) - Doom deathmatch in a Ghostty or kitty pane on macOS 15+, returning you to Claude when it finishes or needs input; downloads and runs Odamex and connects to a shared game server.
 - [spinner](https://github.com/hoobnn/hoobnn-agent-mods/tree/main/claude-code/spinner) - Pixel-art scenes above the prompt while a turn runs, in fourteen themes, with a pet that follows the running tool, levels up and gets a confetti finale.
@@ -79,7 +80,7 @@ Read the mod's source and access details before installing. Validation checks th
 - [meanwhile](https://github.com/njp-coder/meanwhile) - One question a day above the prompt, written by a daily Haiku call from the Hacker News front page and new GitHub repos, with the answer after 40 seconds of Claude working or on Show answer, and `/wrapped` for a share card of the day.
 - [cs-radio](https://github.com/ben-rogerson/claude-counter-strike) - Counter-Strike 1.6 radio calls on Claude Code events, from "Fire in the hole" when a deploy starts to "Bomb has been defused" when a long turn lands, played from your own CS install or bundled soundalikes.
 - [claude-pokemon](https://github.com/dgokcin/claude-pokemon-mod) - Any of the 151 gen 1 Pokémon above the prompt to feed, pet and evolve, with a Poké Ball for each running subagent and 135 animated attacks.
-- [combo-meter](https://github.com/SARTHAK2511/claude-combo) - A fighting-game combo counter above the prompt: every clean tool call is a hit and every error breaks the chain, with D to SSS ranks, special moves like a red-to-green test, a pixel-art counter, toasts, chiptune effects on macOS and an all-time record, making no network calls.
+- [Pixel Play](https://github.com/chrisluo5311/Pixel-Play) - A docked pane that streams a YouTube or local playlist through mpv and yt-dlp while an animated pixel-art skin of your choice dances beside the conversation.
 
 ## Git, pull requests and CI
 

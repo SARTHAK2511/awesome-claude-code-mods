@@ -15,6 +15,7 @@ hellosverre/claude-skins
 augiefra/claude-mods
 nuromirzak/nibbl
 augbastos/afkswitch
+SARTHAK2511/claude-combo
 ljmerza/prompt-spellcheck
 scasella/claude-flightdeck
 pawandeepdhall/claude-mods
@@ -39,4 +40,4 @@ muellerei/task-line
 muellerei/enable-todo-tools
 Sumit189/explain-claude-mod
 vicmpen/mokkan
-SARTHAK2511/claude-combo
+chrisluo5311/Pixel-Play
